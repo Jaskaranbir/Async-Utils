@@ -1,5 +1,3 @@
-import Promise from 'bluebird'
-
 import apiCallHandler from '../../apiTrack'
 
 export function storageUpdate (authKey, requestURI, componentType, customData) {
